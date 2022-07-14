@@ -1,8 +1,8 @@
-/* Làm sạch URL trang web: https://lamsachurl.trang.ws
+/* Làm sạch URL: https://lamsachurl.thaison.page
 
 * Thủ thuật về Tumblr: https://thuthuatve.tumblr.com
 
-* Xóa chuyển hướng href.li của Tumlbr: https://trang.ws/ghW4
+* Xóa chuyển hướng href.li của Tumlbr: https://son.li/z6Bi
 
 * Chia sẻ bởi Lâm Thái Sơn: https://son.lt */
 

@@ -1,4 +1,4 @@
-/* Làm sạch URL trang web: https://lamsachurl.thaison.page
+/* Làm sạch URL: https://lamsachurl.thaison.page
 
 * Thủ thuật về Tumblr: https://thuthuatve.tumblr.com
 

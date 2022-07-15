@@ -1,7 +1,7 @@
 /* Làm sạch URL: https://lamsachurl.thaison.page
-* Code gỡ bỏ UTM: <script src="//son.li/I6Qi" note="Remove UTM" async></script>
-* Code gỡ bỏ FBclid: <script src="//son.li/hR8x" note="Remove FBclid" async></script>
-* Code gỡ bỏ UTM và FBclid: <script src="//son.li/s9Dx" note="Remove UTM and FBclid" async></script>
+* Code gỡ bỏ UTM: <script src="//thaison.link/I6Qi" note="Remove UTM" async></script>
+* Code gỡ bỏ FBclid: <script src="//thaison.link/hR8x" note="Remove FBclid" async></script>
+* Code gỡ bỏ UTM và FBclid: <script src="//thaison.link/s9Dx" note="Remove UTM and FBclid" async></script>
 * Chia sẻ bởi Lâm Thái Sơn: https://son.lt */
 
 /* Gỡ bỏ FBclid */
